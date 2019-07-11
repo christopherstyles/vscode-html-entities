@@ -1,11 +1,10 @@
 {
   "name": "html-entities",
-  "private": true,
   "homepage": "https://github.com/christopherstyles/vscode-html-entities",
   "bugs": "https://github.com/christopherstyles/vscode-html-entities/issues",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/christopherstyles/vscode-html-entities"
+    "url": "https://github.com/christopherstyles/vscode-html-entities.git"
   },
   "displayName": "html-entities",
   "description": "Encode html entities in highlighted text.",
