@@ -10,7 +10,7 @@
   "displayName": "html-entities",
   "description": "Encode html entities in highlighted text.",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.36.0"
   },
