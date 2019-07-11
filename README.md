@@ -6,7 +6,7 @@ A simple [vscode](https://code.visualstudio.com) extension for converting select
 
 Select any text. Using the command palette (`Cmd+Shift+P`) choose “Convert to HTML Entities”.
 
-<img src="https://media.giphy.com/media/ZG00sj0dRcebPZhCk9/giphy.gif">
+<img src="https://media.giphy.com/media/XZxIGG37t59H9fuyAF/giphy.gif" width="460" height="276">
 
 ## Requirements
 
