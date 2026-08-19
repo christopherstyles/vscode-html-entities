@@ -32,7 +32,7 @@ function activate(context) {
       editor.edit(builder => {
         builder.replace(
           selection,
-          he.encode(text, { useNamedReferences: true }),
+          he.encode(text, { useNamedReferences: true }).replace(/@/g, '&#64;'),
         );
       });
     },
